@@ -101,8 +101,7 @@ AnimationRotateButton|
 AnimationRotateTextView|
 AnimationRotateImageView|
 
-## li
-# License
+## License
 ```xml
  Copyright [2019] [GyeongUn Min]
 
