@@ -1,5 +1,6 @@
 # MindevScrollAnimation
-
+## Demo
+![gif](https://github.com/mkw8263/MindevScrollAnimation/blob/master/demo.gif)
 
 ## apply in project
 [![](https://jitpack.io/v/mkw8263/MindecScrollAnimation.svg)](https://jitpack.io/#mkw8263/MindecScrollAnimation)
