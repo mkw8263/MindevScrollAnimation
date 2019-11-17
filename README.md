@@ -21,7 +21,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ````groovy
 	dependencies {
-	        implementation 'com.github.mkw8263:MindecScrollAnimation:Tag'
+	        implementation 'com.github.mkw8263:MindecScrollAnimation:0.01'
 	}
 ````
 
